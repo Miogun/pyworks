@@ -1,0 +1,48 @@
+파이썬 문법
+파이썬3 - 인터프리터, 라이브러리, 설정 관련 소프트웨어
+ 툴(tool) - IDLE
+
+if 1.py
+조건문의 종류 
+1. if문
+2. if ~ else문
+
+if 조건문:(콜론)
+  수행문(들여쓰기, 4칸)
+
+if 비교식 and 비교식:
+  실행문1
+else:
+  실행문2
+
+안녕 10번 출력
+
+1. 유형 1
+초기값
+while 조건문:
+  실행문
+  증감값
+
+2. 유형 2. 무한반복 조건문(while ~ break)
+초기값
+while True:
+  실행문
+  if 조건:
+    break
+
+
+n = 0
+while n < 10:
+  n = n + 1
+  print('안녕')
+
+
+coffee_machine.py
+1. 유형1
+반복문(while문,for문)
+for 반복변수 in 자료(리스트): # in = 연산자
+  실행문
+
+2. 유형2
+for x in range(시작값,종료값,증감값): # range = 함수
+   실행문

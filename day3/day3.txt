@@ -1,0 +1,110 @@
+
+
+자료형 - 숫자, 문자, 부울
+자료구조 - 리스트([]), 딕셔너리({}), 튜플(())
+
+score = [70,80,50]
+# 추가
+score[3] = 60
+score.append(60)
+score = [70,80,50,60]
+# 삭제
+del score[3]
+score.pop()
+# 개수
+len()
+
+숫자 더하기
+sum_v = 0
+i = 1
+i += 1
+sum_v = sum_v + i
+
+문자더하기
+result_val = ""
+
+current_val + f'{dan} x {i} = {dan*i}'
+result_val = result_val + current_val
+
+자리 배치
+입장객 : 20
+좌석열 : 5
+
+줄(행) 수 : 4(나누어 떨어진다. 나머지 0)
+입장객%좌석열 == 0
+줄수
+
+줄수:5(나머지 0이 아닌 경우 - 1,2,3,4)
+줄수+1
+
+
+
+
+제어(조건,반복)
+조건 - if(if~else)
+반복 - while, for
+
+점수 = 75
+if 점수 >= 60:
+    print("합격")
+else:
+    print("불합격")
+
+i = 0
+while i < 10:
+    i+=1
+    print(i)
+
+# 반복 조건문
+i = 0
+while True:
+    i+=1
+    if i > 10:
+      break;    
+    print(i)
+
+예외 처리(오류 처리)
+try:
+    실행문
+except:
+    print("숫자를 입력해주세요")
+
+dict1.py
+
+if 조건문:
+   실행문
+함수정의
+def 함수이름():
+   실행문
+
+유형2
+def 함수이름(X)
+  
+
+함수이름() -> 사용, 호출
+
+함수 - 어떤 동작, 기능을 하는 명령의 집합(단위)
+함수이름()
+ 변수, 제어문
+
+
+
+자바스크립트 json -> 파이썬 딕셔너리
+{키:value}
+
+price.py
+
+
+built_in_fn.py
+
+모듈(Module) - 파일
+import datetime
+현재 날짜와 시간
+특정한 날짜와 시간, 요일
+datetime1.py
+
+
+import price
+from price import get_price
+
+

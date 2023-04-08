@@ -1,0 +1,29 @@
+깃허브 - 계정 생성
+깃 소프트웨어
+
+git config --global user.name "Miogun"
+git config --global user.email "cloudyshin1@gmail.com"
+
+
+내장 함수
+len()
+list()
+sum()
+round()
+
+모듈
+import time
+
+
+문자열을 구분해서 리스트로 생성하는 함수
+split(구분기호)
+s = "sky, moon, tree"
+s = ['sky','moon','tree']
+
+
+
+
+IDLE -> 파이참(pycharm)
+쥬피터노트북 - 데이터분석 시각화
+
+깃허브 - 무료 호스팅(웹 서버)

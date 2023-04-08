@@ -1,0 +1,31 @@
+# 딕셔너리(Dicitionary) 생성과 사용
+# 과일 = {'딸기' : 'red'} -> {key:value}
+fruit = {'딸기':5000, 'banana' : 3000, 'apple' : 10000}
+
+# 요소 추가
+fruit['감'] = 4000
+print(fruit)
+
+# 모든 키 가져오기 - keys() 함수 사용
+print(fruit.keys())
+print(list(fruit.keys()))
+
+# 모든 값 가져오기 - values() 함수 사용
+print(fruit.values())
+print(list(fruit.values()))
+
+# value 출력
+# 인덱싱
+print(fruit['딸기'])
+
+# 전체 출력
+for key in fruit:
+    print(key, ':',fruit[key])
+
+# 전체 출력 - items() : 모든 키와 값 가져오기
+for key, val in fruit.items():
+    print(key,':',val)
+
+
+    
+
