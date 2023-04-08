@@ -14,4 +14,4 @@ et = end - start
 gap = abs(et-20) #
 print(f'실제 시간 : {et}초')
 # print(f'차이 : {gap}초')
-print(f'차이 : {abs(et-20)}초' # 절대값 처리
+print(f'차이 : {abs(et-20)}초') # 절대값 처리

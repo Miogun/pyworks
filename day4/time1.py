@@ -1,6 +1,6 @@
 # time 모듈
 import time
-
+"""
 # 1970. 1. 1 이후의 지금까지 시간 - 초로 환산
 print(time.time())
 
@@ -19,4 +19,11 @@ for i in range(1,11):
 
 end = time.time() # 끝나는 시간
 print(f'수행 시간 : {end-start:0.3f}초')
+"""
+
+
+import calendar
+
+# calendar.prcal(2023)
+calendar.prmonth(2023, 4)
 
