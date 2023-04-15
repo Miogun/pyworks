@@ -1,0 +1,51 @@
+사용자 정의 모듈(module)의 종류
+- 파일 : dog.py
+- 클래스
+- 함수
+from 파일 import 클래스, 함수
+
+내장모듈(built-in module)
+import datetime
+import random
+
+
+# 클래스 정의
+class 클래스이름:
+  def__init__(self):	# 생성자
+      # pass 
+      self.name =  name
+
+  def info(self):      # 멤버함수
+     print("정보입니다.")
+
+# 클래스 사용(c1 객체 생성)
+c1 = 클래스이름('김기용')  
+print(c1.name)
+c1.info()
+
+
+비행기 클래스
+class Airplane:
+  생성자
+
+  이륙하다
+  날아간다
+  착륙한다
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

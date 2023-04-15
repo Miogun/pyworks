@@ -12,3 +12,4 @@ print(f'이름 : {s1.name}')
 print(f'학년 : {s1.grade}')
 
 
+
