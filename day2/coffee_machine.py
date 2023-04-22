@@ -22,7 +22,7 @@ while True:
     # 커피의 개수가 0이되면 반복 중단.
         if coffee == 0:
             print("커피가 모두 소진되었습니다. 판매를 중지합니다.")
-            break
+            break ##
     except:
         print("숫자를 입력해주세요")
         

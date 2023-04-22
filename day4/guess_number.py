@@ -4,7 +4,7 @@
 # 작으면 "너무 작아요", 맞추면 "정답!!"
 import random
 
-com = random.randint(1, 100)
+com = random.randint(1, 100) ##
 min_v = 1
 max_v = 100
 
@@ -16,8 +16,8 @@ while True:
         break
     elif guess > com:
         print("너무 커요")
-        max_v = guess
+        max_v = guess ##
     else:
         print("너무 작아요")
-        min_v = guess
+        min_v = guess ##
 

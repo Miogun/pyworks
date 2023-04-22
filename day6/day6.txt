@@ -1,0 +1,49 @@
+시각화 - 꺽은선, 막대
+2차원 리스트 
+
+jupyter notebook
+파일 이름 : data1.ipynb
+실행 : run (shift + Enter)
+
+제목 - 내용(markdown)
+코드 작성
+
+
+http://www.naver.com
+http://125.209.222.141:82/
+
+
+컴퓨터:포트번호
+http://localhost:8888/tree
+http://127.0.0.1:8888/tree
+로컬서버
+
+클라이언트
+
+
+IDLE
+파이참
+- 아나콘다 라이브러리(패키지 관리)
+Jupyter notebook - 웹 애플리케이션
+코렙(colab) - 딥러닝
+
+
+
+
+
+
+모듈 - mywork.py
+def myfunc():
+class Myclass():
+
+use.py
+from mywork import Myclass, myfunc
+
+built-in 모듈
+datetime, time, math, random
+
+함수, 모듈, 패키지, 클래스
+성취도 평가
+
+데이터 분석, 시각화 - pandas, matplotlib
+
