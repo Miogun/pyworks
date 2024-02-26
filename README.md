@@ -1,8 +1,9 @@
 ## 파이썬 IDLE(3.11)
 - 파이썬 쉘(shell) : 입출력(대화형 쉘)
 - 파이썬 Edtior : 저장 가능
-함수 - 함수이름(매개값)
-작업 폴더 - pyworks
+
+## 함수 - 함수이름(매개값)
+작업 폴더 - pyworks <br>
 
 python.org -> download
 
@@ -13,8 +14,8 @@ python.org -> download
 한 개의 값을 저장할 수 있습니다.
 == 는 같다는 뜻입니다.
 
-: 주석, 코멘트 <br>
-라이브러리 : <br>
+주석, 코멘트 <br>
+라이브러리 <br>
 
 1 byte 8 bit : ASCII <br>
 2 byte 16 bit : 유니코드 <br>
