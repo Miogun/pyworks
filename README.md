@@ -13,13 +13,13 @@ python.org -> download
 한 개의 값을 저장할 수 있습니다.
 == 는 같다는 뜻입니다.
 
-: 주석, 코멘트
-라이브러리 : 
+: 주석, 코멘트 <br>
+라이브러리 : <br>
 
-1byte 8bit : ASCII
-2byte 16bit : 유니코드
+1 byte 8 bit : ASCII <br>
+2 byte 16 bit : 유니코드 <br>
 
-OnlineGDB 검색 
+OnlineGDB 검색 <br>
 
 6주 교육 과정 <br>
 
